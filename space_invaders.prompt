@@ -1,0 +1,5 @@
+#Define a python function for playing the classic Space Invaders.
+#Display playing field using pygame library.
+#Display a score.
+
+import pygame
